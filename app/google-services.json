@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "490332834388",
+    "firebase_url": "https://batterysoc-analysis.firebaseio.com",
+    "project_id": "batterysoc-analysis",
+    "storage_bucket": "batterysoc-analysis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490332834388:android:e4972f7f86df0705",
+        "android_client_info": {
+          "package_name": "com.example.sonjaehyeong.energizer_batterysoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490332834388-upc69ils84ovf2aa9hrg9gpnvfppc8ir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sonjaehyeong.energizer_batterysoc",
+            "certificate_hash": "c422a809358c263751ec4ba2ebcffce1644add01"
+          }
+        },
+        {
+          "client_id": "490332834388-p82rb0ibamhi6850cb9r8u1sqv9ada7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX1IQN5Xd01SfzBXcbYgWwraKnxyT-JqQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490332834388-p82rb0ibamhi6850cb9r8u1sqv9ada7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
