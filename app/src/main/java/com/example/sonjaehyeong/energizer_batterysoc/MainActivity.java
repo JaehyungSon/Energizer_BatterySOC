@@ -7,6 +7,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -34,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
                     intent.putExtra("user_id",user_id_editText.getText());
                 }
                 startService(intent); // 서비스 시작
+                Toast.makeText(MainActivity.this, "정상적으로 실행되었습니다.\n어플을 종료하셔도 됩니다.", Toast.LENGTH_SHORT).show();
             }
         });
 
